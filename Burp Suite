@@ -1,0 +1,12 @@
+# 🛠️ Burp Suite: Web Güvenliğinin Komuta Merkezi
+
+Burp Suite, web uygulaması sızma testlerinde kullanılan, tarayıcı ile sunucu arasındaki trafiği yakalamaya yarayan bir Interceptor Proxy aracıdır.
+
+## 🚀 Temel Modüller ve İşlevleri
+* **Proxy:** Trafiği havada durdurur (Intercept), incelemeye ve manipüle etmeye olanak tanır.
+* **Repeater:** Bir isteği (Request) değiştirmek ve sunucunun farklı girdilere verdiği tepkiyi tekrar tekrar ölçmek için kullanılır.
+* **Intruder:** Özelleştirilmiş saldırılarla (Brute-force, Fuzzing) zafiyetleri otomatik tarar.
+* **Decoder:** Karmaşık kodlanmış verileri (Hex, Base64 vb.) hızlıca çözümler veya kodlar.
+
+---
+*Burp Suite, trafiği manipüle ederek arka plandaki mantık hatalarını keşfetmemizi sağlayan en güçlü aracımdır.*
